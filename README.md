@@ -59,8 +59,7 @@
   <a href="https://open.spotify.com"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
     <h5 align="right">🎮 To have fun and spend time...</h5>
 </p>
-<img position="absolute"
-  top="1000%" src="https://github.com/Admu-Dev/Admu-dev/blob/main/img/fond-developpement-site-web-plat-futuriste_93732-11.jpg" />
+<img src="https://github.com/Admu-Dev/Admu-dev/blob/main/img/fond-developpement-site-web-plat-futuriste_93732-11.jpg" />
 <!--### Hi there 👋
 
 

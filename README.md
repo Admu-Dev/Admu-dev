@@ -5,7 +5,7 @@ Hello I'm a french developper orient web
 <h1 align='center'> Hi there 👋,</h1>
 
 <p align='center'>
-  I live on Recife, Brazil and work at <b>CESAR</b> 
+  I live in France and I'm a french developper orient web
 </p>
 
 <p align='center'>

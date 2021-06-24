@@ -1,7 +1,3 @@
-![Cover](https://github.com/Admu-Dev/Admu-dev/blob/main/img/fond-developpement-site-web-plat-futuriste_93732-11.jpg)
-Hello I'm a french developper orient web
-
-
 <h1 align='center'> Hi there 👋,</h1>
 
 <p align='center'>
@@ -58,6 +54,7 @@ Hello I'm a french developper orient web
   <h5 align="right">🎮 To have fun and spend time...</h5>
 </p>
 
+![Cover](https://github.com/Admu-Dev/Admu-dev/blob/main/img/fond-developpement-site-web-plat-futuriste_93732-11.jpg)
 <!--### Hi there 👋
 
 

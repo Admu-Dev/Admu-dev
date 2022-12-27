@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://admu-dev.github.io/Portfolio/](https://admu-dev.github.io/Portfolio/)
 
-- 💬 Ask me about **react, js, html, css, scss, php, python, mysql**
+- 💬 Ask me about **Javascript, React js, Html, Css, Scss, Php, Python, Mysql, Sql**
 
 - 📫 How to reach me **adrien.muzeaux@gmail.com**
 

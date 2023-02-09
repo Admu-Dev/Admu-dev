@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=admu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="admu-dev" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/Admu-Dev/Portfolio)
+- 🔭 I’m currently working on [Portfolio](https://github.com/Admu-Dev/Portfolio-admu)
 
 - 🌱 I’m currently learning **ethical hacking,**
 
-- 👨‍💻 All of my projects are available at [https://admu-dev.github.io/Portfolio/](https://admu-dev.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://admu-dev.github.io/Portfolio-admu/](https://admu-dev.github.io/Portfolio-admu/)
 
 - 💬 Ask me about **Javascript, React js, Html, Css, Scss, Php, Python, Mysql, Sql**
 

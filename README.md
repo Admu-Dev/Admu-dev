@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ethical hacking,**
 
-- 👨‍💻 All of my projects are available at [https://admu-dev.github.io/Portfolio-admu/](https://admu-dev.github.io/Portfolio-admu/)
+- 👨‍💻 All of my projects are available at [https://admu-portfolio.netlify.app](https://admu-portfolio.netlify.app)
 
 - 💬 Ask me about **Javascript, React js, Html, Css, Scss, Php, Python, Mysql, Sql**
 

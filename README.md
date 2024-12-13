@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=admu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="admu-dev" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/Admu-Dev/Portfolio-admu)
-
-- 🌱 I’m currently learning **ethical hacking,**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 👨‍💻 All of my projects are available at [https://admu-portfolio.netlify.app](https://admu-portfolio.netlify.app)
 

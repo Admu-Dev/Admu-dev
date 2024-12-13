@@ -1,21 +1,24 @@
 <h1 align="center">Hi 👋, I'm Adrien</h1>
-<h3 align="center">A French frontend and backend developer passionate about cybersecurity</h3>
+<h3 align="center">A future cybersecurity engineer and passionate developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=admu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="admu-dev" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=admu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="admu-dev" />
+</p>
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🎓 I’m currently studying to become a **Cybersecurity Engineer** in an engineering school.  
+- 🌱 My journey focuses on learning and mastering advanced **cybersecurity practices** and **ethical hacking**.  
+- 👨‍💻 Check out some of my projects at [https://admu-portfolio.netlify.app](https://admu-portfolio.netlify.app).  
+- 💬 Feel free to ask me about **network security, Python, PHP, Linux, SQL, penetration testing, and web application security**.  
+- 📫 Reach me at **adrien.muzeaux@gmail.com**.  
+- ⚡ **Fun fact:** I love uncovering vulnerabilities and helping secure systems!  
 
-- 👨‍💻 All of my projects are available at [https://admu-portfolio.netlify.app](https://admu-portfolio.netlify.app)
-
-- 💬 Ask me about **Javascript, React js, Html, Css, Scss, Php, Python, Mysql, Sql**
-
-- 📫 How to reach me **adrien.muzeaux@gmail.com**
- 
-- ⚡ Fun fact **I think I am funny**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/Admu#2484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Admu#2484" height="30" width="40" /></a>
+  <a href="https://discord.gg/Admu#2484" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Admu#2484" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

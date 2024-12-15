@@ -11,6 +11,7 @@
 - 💬 Feel free to ask me about **network security, Python, PHP, Linux, SQL, penetration testing, and web application security**.  
 - 📫 Reach me at **adrien.muzeaux@gmail.com**.  
 - ⚡ **Fun fact:** I love uncovering vulnerabilities and helping secure systems!  
+- 🚩 CTF Lover
 
 ---
 

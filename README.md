@@ -1,33 +1,100 @@
-<h1 align="center">Hi 👋, I'm Adrien</h1>
-<h3 align="center">A future cybersecurity engineer and passionate developer</h3>
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=admu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="admu-dev" />
-</p>
+```
+ █████╗ ██████╗ ███╗   ███╗██╗   ██╗
+██╔══██╗██╔══██╗████╗ ████║██║   ██║
+███████║██║  ██║██╔████╔██║██║   ██║
+██╔══██║██║  ██║██║╚██╔╝██║██║   ██║
+██║  ██║██████╔╝██║ ╚═╝ ██║╚██████╔╝
+╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝ ╚═════╝
+```
 
-- 🎓 I’m currently studying to become a **Cybersecurity Engineer** in an engineering school.  
-- 🌱 My journey focuses on learning and mastering advanced **cybersecurity practices** and **ethical hacking**.  
-- 👨‍💻 Check out some of my projects at [https://admu-portfolio.netlify.app](https://admu-portfolio.netlify.app).  
-- 💬 Feel free to ask me about **network security, Python, PHP, Linux, SQL, penetration testing, and web application security**.  
-- 📫 Reach me at **adrien.muzeaux@gmail.com**.  
-- ⚡ **Fun fact:** I love uncovering vulnerabilities and helping secure systems!  
-- 🚩 CTF Lover
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=Cybersecurity+Engineer+in+training;Pentester+%7C+CTF+Player+%F0%9F%9A%A9;Ethical+Hacker+%7C+Developer)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=admu-dev&color=00ff41&style=flat-square&label=Profile+Views)](https://github.com/Admu-Dev)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-admu--portfolio.netlify.app-00ff41?style=flat-square)](https://admu-portfolio.netlify.app)
+[![Discord](https://img.shields.io/badge/Discord-admu77-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Admu#2484)
+
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://discord.gg/Admu#2484" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Admu#2484" height="30" width="40" />
-  </a>
-Discord : admu77
-</p>
+## 🔍 About
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+```bash
+$ whoami
+  admu@kali:~$
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=admu-dev&show_icons=true&locale=en&layout=compact" alt="admu-dev" /></p>
+$ cat about.txt
+  🎓  Engineering student
+  🔐  Offensive security & penetration testing
+  🚩  CTF player — 50+ challenges solved
+  💻  Started coding at 12, now breaking things ethically
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=admu-dev&show_icons=true&locale=en" alt="admu-dev" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=admu-dev&" alt="admu-dev" /></p>
+## ⚔️ Skills
+
+### 🔐 Cybersecurity & Pentesting
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🧰 Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+---
+
+## 🚩 CTF & Platforms
+
+> **50+ challenges solved** — web exploitation, network forensics, reverse engineering & OSINT.
+
+<div align="center">
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Admu)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+[![Root-Me](https://img.shields.io/badge/Root--Me-000000?style=for-the-badge&logoColor=white)](https://www.root-me.org/Admu)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=admu-dev&theme=dark&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"The quieter you become, the more you are able to hear."*
+
+**🔒 Secure systems. Break things ethically. Learn endlessly.**
+
+</div>

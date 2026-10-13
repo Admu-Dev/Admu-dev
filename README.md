@@ -13,7 +13,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=admu-dev&color=00ff41&style=flat-square&label=Profile+Views)](https://github.com/Admu-Dev)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-admu--portfolio.netlify.app-00ff41?style=flat-square)](https://admu-portfolio.netlify.app)
-[![Discord](https://img.shields.io/badge/Discord-admu77-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Admu#2484)
+![Discord](https://img.shields.io/badge/Discord-admu77-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 </div>
 
@@ -29,8 +29,24 @@ $ cat about.txt
   🎓  Engineering student
   🔐  Offensive security & penetration testing
   🚩  CTF player — 50+ challenges solved
+  🐞  CVE-2026-73650 — XSS in SVGO (High, CVSS 8.2)
+  📚  Preparing HTB CJCA certification
   💻  Started coding at 12, now breaking things ethically
 ```
+
+---
+
+## 🐞 Security Research
+
+| CVE | Project | Type | Severity | Details |
+|-----|---------|------|----------|---------|
+| [CVE-2026-73650](https://www.cve.org/CVERecord?id=CVE-2026-73650) | [SVGO](https://github.com/svg/svgo) | `removeScripts` bypass → XSS | ![High 8.2](https://img.shields.io/badge/CVSS-8.2%20High-orange?style=flat-square) | [Advisory](https://github.com/advisories/GHSA-2p49-hgcm-8545) · [Write-up & PoC](https://github.com/Admu-Dev/CVE-Research/tree/main/CVE-2026-73650) |
+
+---
+
+## 📚 Certifications
+
+- **HTB CJCA** (Certified Junior Cybersecurity Associate) — *in progress* on Hack The Box Academy
 
 ---
 
@@ -74,7 +90,7 @@ $ cat about.txt
 <div align="center">
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Admu)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/1482553)
 [![Root-Me](https://img.shields.io/badge/Root--Me-000000?style=for-the-badge&logoColor=white)](https://www.root-me.org/Admu)
 
 </div>
@@ -85,7 +101,7 @@ $ cat about.txt
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=admu-dev&theme=dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Admu-Dev&theme=dark&hide_border=true" />
 
 </div>
 

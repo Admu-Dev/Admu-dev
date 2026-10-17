@@ -12,7 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=Cybersecurity+Engineer+in+training;Pentester+%7C+CTF+Player+%F0%9F%9A%A9;Ethical+Hacker+%7C+Developer)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=admu-dev&color=00ff41&style=flat-square&label=Profile+Views)](https://github.com/Admu-Dev)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-admu--portfolio.netlify.app-00ff41?style=flat-square)](https://admu.fr)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-admu.fr-00ff41?style=flat-square)](https://admu.fr)
 ![Discord](https://img.shields.io/badge/Discord-admu77-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 </div>
